@@ -13,7 +13,7 @@ public abstract class Document {
     public String toString() {
         String res = "";
         for (String cuvant : continut) {
-            res += cuvant + " ";
+            res += cuvant + " abracadabra 2.0 ";
         }
         return res;
     }
